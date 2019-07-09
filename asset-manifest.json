@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/starwars-starships/static/css/main.21bc7d61.chunk.css",
+    "main.js": "/starwars-starships/static/js/main.0faa07aa.chunk.js",
+    "main.js.map": "/starwars-starships/static/js/main.0faa07aa.chunk.js.map",
+    "runtime~main.js": "/starwars-starships/static/js/runtime~main.bfe8377b.js",
+    "runtime~main.js.map": "/starwars-starships/static/js/runtime~main.bfe8377b.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/starwars-starships/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/starwars-starships/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/starwars-starships/index.html",
+    "precache-manifest.845dc17c7029b61c29405c24535a09e6.js": "/starwars-starships/precache-manifest.845dc17c7029b61c29405c24535a09e6.js",
+    "service-worker.js": "/starwars-starships/service-worker.js",
+    "static/css/main.21bc7d61.chunk.css.map": "/starwars-starships/static/css/main.21bc7d61.chunk.css.map"
+  }
+}
